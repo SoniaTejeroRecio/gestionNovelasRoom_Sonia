@@ -1,4 +1,4 @@
-Proyecto Individual_SoniaTejeroRecio
+# Proyecto Individual_SoniaTejeroRecio
 Comenzamos 🚀
 Es importante recalcar que todos los bloques de código se han realizado utilizando el lenguaje de programación Kotlin.  
 ¿Cómo he estructurado el proyecto?
@@ -49,5 +49,5 @@ Operaciones CRUD: Se realizan operaciones CRUD (Crear, Leer, Actualizar, Elimina
 val novelaDao = db.novelaDao()
 novelaDao.insert(Novela(titulo = "Nueva Novela"))
 val novelas = novelaDao.getAll()
-Corrección 🖇️
+##Corrección 🖇️
 _Repositorio de github:_(https://github.com/SoniaTejeroRecio/gestionNovelasRoom_Sonia.git)
